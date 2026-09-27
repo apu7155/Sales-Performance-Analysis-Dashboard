@@ -26,13 +26,29 @@ Microsoft Excel | Power Query | Power BI | DAX | Data Visualization
 ## Dashboard Preview
 ![Sales Performance Dashboard](Sales%20Analysis%20Dashboard.png)
 
-## Key Business Questions
+## 🔍 Key Business Questions
 
 - Which payment methods generate the highest sales?
 - Which regions and cities perform better?
 - How does sales performance change across months?
 - Which product categories contribute most to sales?
 - How does overall sales performance vary across different segments?
+
+## 💡 Key Insights
+
+- Analyzed sales performance across different payment methods.
+- Compared sales performance across regions and cities.
+- Identified monthly sales trends and variations.
+- Evaluated category-wise sales performance.
+- Enabled interactive filtering to explore sales records from multiple perspectives.
+
+## 📁 Project Files
+
+| File | Description |
+|---|---|
+| `Sales Data.xlsx` | Source sales dataset used for the analysis |
+| `Sales Performance Dashboard.pbix` | Interactive Power BI dashboard |
+| `Sales Analysis Dashboard.png` | Dashboard preview image |
 
 ## Skills Demonstrated
 
