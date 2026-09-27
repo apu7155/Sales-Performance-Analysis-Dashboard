@@ -24,6 +24,7 @@ Microsoft Excel | Power Query | Power BI | DAX | Data Visualization
 - Overall Sales Performance
 
 ## Dashboard Preview
+![Sales Performance Dashboard](Sales%20Analysis%20Dashboard.png)
 
 ## Key Business Questions
 
